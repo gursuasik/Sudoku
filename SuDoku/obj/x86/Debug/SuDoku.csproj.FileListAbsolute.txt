@@ -1,0 +1,35 @@
+D:\Documents\Edit\Documents\Computer\Works\Visual Studio\C#\SuDoku\SuDoku\bin\Debug\SuDoku.exe
+D:\Documents\Edit\Documents\Computer\Works\Visual Studio\C#\SuDoku\SuDoku\bin\Debug\SuDoku.pdb
+D:\Documents\Edit\Documents\Computer\Works\Visual Studio\C#\SuDoku\SuDoku\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Documents\Edit\Documents\Computer\Works\Visual Studio\C#\SuDoku\SuDoku\obj\x86\Debug\SuDoku.Form1.resources
+D:\Documents\Edit\Documents\Computer\Works\Visual Studio\C#\SuDoku\SuDoku\obj\x86\Debug\SuDoku.Properties.Resources.resources
+D:\Documents\Edit\Documents\Computer\Works\Visual Studio\C#\SuDoku\SuDoku\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Documents\Edit\Documents\Computer\Works\Visual Studio\C#\SuDoku\SuDoku\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Documents\Edit\Documents\Computer\Works\Visual Studio\C#\SuDoku\SuDoku\obj\x86\Debug\SuDoku.exe
+D:\Documents\Edit\Documents\Computer\Works\Visual Studio\C#\SuDoku\SuDoku\obj\x86\Debug\SuDoku.pdb
+D:\Documents\Edit\Documents\Works\Visual Studio\C#\SuDoku\SuDoku\obj\x86\Debug\SuDoku.exe
+D:\Documents\Edit\Documents\Works\Visual Studio\C#\SuDoku\SuDoku\obj\x86\Debug\SuDoku.pdb
+D:\Documents\Edit\Documents\Works\Visual Studio\C#\SuDoku\SuDoku\bin\Debug\SuDoku.exe
+D:\Documents\Edit\Documents\Works\Visual Studio\C#\SuDoku\SuDoku\bin\Debug\SuDoku.pdb
+D:\Documents\Edit\Documents\Works\Visual Studio\C#\SuDoku\SuDoku\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Documents\Edit\Documents\Works\Visual Studio\C#\SuDoku\SuDoku\obj\x86\Debug\SuDoku.Form1.resources
+D:\Documents\Edit\Documents\Works\Visual Studio\C#\SuDoku\SuDoku\obj\x86\Debug\SuDoku.Properties.Resources.resources
+D:\Documents\Edit\Documents\Works\Visual Studio\C#\SuDoku\SuDoku\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Documents\Edit\Documents\Works\Visual Studio\C#\SuDoku\SuDoku\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Documents\Edit\Documents\Works\Visual Studio\C#\Windows\Windows Form Aplication\SuDoku\SuDoku\obj\x86\Debug\SuDoku.exe
+D:\Documents\Edit\Documents\Works\Visual Studio\C#\Windows\Windows Form Aplication\SuDoku\SuDoku\obj\x86\Debug\SuDoku.pdb
+D:\Documents\Edit\Documents\Works\Visual Studio\C#\Windows\Windows Form Aplication\SuDoku\SuDoku\bin\Debug\SuDoku.exe
+D:\Documents\Edit\Documents\Works\Visual Studio\C#\Windows\Windows Form Aplication\SuDoku\SuDoku\bin\Debug\SuDoku.pdb
+D:\Documents\Edit\Documents\Works\Visual Studio\C#\Windows\Windows Form Aplication\SuDoku\SuDoku\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Documents\Edit\Documents\Works\Visual Studio\C#\Windows\Windows Form Aplication\SuDoku\SuDoku\obj\x86\Debug\SuDoku.Form1.resources
+D:\Documents\Edit\Documents\Works\Visual Studio\C#\Windows\Windows Form Aplication\SuDoku\SuDoku\obj\x86\Debug\SuDoku.Properties.Resources.resources
+D:\Documents\Edit\Documents\Works\Visual Studio\C#\Windows\Windows Form Aplication\SuDoku\SuDoku\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Documents\Edit\Documents\Works\Visual Studio\C#\Windows\Windows Form Aplication\SuDoku\SuDoku\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Documents\Edit\Works\Visual Studio\C#\Windows\Windows Form Aplication\SuDoku\SuDoku\obj\x86\Debug\SuDoku.exe
+D:\Documents\Edit\Works\Visual Studio\C#\Windows\Windows Form Aplication\SuDoku\SuDoku\obj\x86\Debug\SuDoku.pdb
+D:\Documents\Edit\Works\Visual Studio\C#\Windows\Windows Form Aplication\SuDoku\SuDoku\bin\Debug\SuDoku.exe
+D:\Documents\Edit\Works\Visual Studio\C#\Windows\Windows Form Aplication\SuDoku\SuDoku\bin\Debug\SuDoku.pdb
+D:\Documents\Edit\Works\Visual Studio\C#\Windows\Windows Form Aplication\SuDoku\SuDoku\obj\x86\Debug\SuDoku.csprojResolveAssemblyReference.cache
+D:\Documents\Edit\Works\Visual Studio\C#\Windows\Windows Form Aplication\SuDoku\SuDoku\obj\x86\Debug\SuDoku.Form1.resources
+D:\Documents\Edit\Works\Visual Studio\C#\Windows\Windows Form Aplication\SuDoku\SuDoku\obj\x86\Debug\SuDoku.Properties.Resources.resources
+D:\Documents\Edit\Works\Visual Studio\C#\Windows\Windows Form Aplication\SuDoku\SuDoku\obj\x86\Debug\SuDoku.csproj.GenerateResource.Cache
